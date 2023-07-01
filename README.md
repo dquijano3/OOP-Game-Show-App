@@ -5,10 +5,6 @@ Gameplay and Purpose
 
 In this game, players are presented with a phrase that holds a meaningful message. By guessing letters and revealing the hidden phrase, players unlock the wisdom contained within. The phrases are carefully curated to inspire and uplift, fostering a sense of positivity and personal growth.
 
-Visual Style
-
-The visual style of the game is crafted to create a serene and harmonious atmosphere. Soft colors and gentle animations immerse players in a tranquil environment, allowing them to escape the hustle and bustle of everyday life. The clean and minimalistic design adds a touch of elegance, enhancing the overall user experience.
-
 Accessibility and Inclusivity
 
 Accessibility and inclusivity are at the core of the Game App. The interface is designed with clarity and simplicity in mind, ensuring that players of all ages and backgrounds can easily navigate and enjoy the game. Additionally, the game supports keyboard input, allowing physically impaired individuals to participate fully.
